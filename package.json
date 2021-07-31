@@ -5,7 +5,7 @@
     "displayName": "RtMidi",
     "keywords": [ "unity" ],
     "license": "MIT",
-    "name": "jp.do-nozuka.rtmidiforunity",
+    "name": "com.donozuka.rtmidiforunity",
     "repository": "github:DO-Nozuka/RtMidiForUnity",
     "unity": "2019.1",
     "unityRelease": "0f1",
