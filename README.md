@@ -1,3 +1,5 @@
+Copy from https://github.com/keijiro/jp.keijiro.rtmidi
+
 RtMidi for Unity
 ================
 
