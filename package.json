@@ -1,12 +1,12 @@
 {
-    "author": "Keijiro Takahashi",
+    "author": "Daiki Onozuka",
     "dependencies": { },
     "description": "RtMidi plugin for Unity",
     "displayName": "RtMidi",
     "keywords": [ "unity" ],
     "license": "MIT",
-    "name": "jp.keijiro.rtmidi",
-    "repository": "github:keijiro/jp.keijiro.rtmidi",
+    "name": "jp.DO-Nozuka.rtmidi",
+    "repository": "github:DO-Nozuka/jp.DO-Nozuka.rtmidi",
     "unity": "2019.1",
     "unityRelease": "0f1",
     "version": "1.0.3"
