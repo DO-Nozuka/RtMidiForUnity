@@ -5,7 +5,7 @@
     "displayName": "RtMidi",
     "keywords": [ "unity" ],
     "license": "MIT",
-    "name": "RtMidi for Unity",
+    "name": "RtMidiForUnity",
     "repository": "github:DO-Nozuka/RtMidiForUnity",
     "unity": "2019.1",
     "unityRelease": "0f1",
